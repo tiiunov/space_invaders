@@ -1,4 +1,4 @@
-#Space invaders
+Space invaders
 -----------
 #### Запустите файл game.py
 #### Управление:
